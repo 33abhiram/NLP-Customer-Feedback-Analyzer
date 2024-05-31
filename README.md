@@ -38,3 +38,5 @@ Time - Timestamp for the review
 Summary - Brief summary of the review
 
 Text - Text of the review
+
+### Check out NLP_Report for a detailed write-up on the project
